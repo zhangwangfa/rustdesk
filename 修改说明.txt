@@ -1,0 +1,14 @@
+rustdesk/libs/hbb_common src/config.rs   修改中距服务器
+在103行左右
+----
+
+他会重新命名update，删除前缀
+
+
+---------------
+找到github
+rustdesk/github/workflows/flutter-ci.yml
+
+
+最后面
+我们把最后的这个false呢改成true
