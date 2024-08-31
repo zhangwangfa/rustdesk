@@ -23,6 +23,7 @@ src/common.rs   897行
 
 ---------------------------------------------------------
 这个要在开源地址里上传index.php
+开源地址：https://github.com/v5star/rustdesk-api
 新增用户
 -------------
 http://10.0.0.252:7000/index.php?ac=add&u=test&p=123456
